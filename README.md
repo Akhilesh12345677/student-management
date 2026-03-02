@@ -1,4 +1,5 @@
 # student-management
 this is my project
 akhilesh kumar
-rajput
+rajput singh
+
